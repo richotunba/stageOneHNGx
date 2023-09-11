@@ -36,8 +36,8 @@ app.get('/api', (req, res) =>{
       "current_day": `${currentDayName}`,
       "utc_time": `${utc_time}`,
       "track": `${track}`,
-      "github_file_url": "",
-      "github_repo_url": "",
+      "github_file_url": "https://github.com/richotunba/stageOneHNGx/blob/main/app.js",
+      "github_repo_url": "https://github.com/richotunba/stageOneHNGx",
       "status_code": 200
   }
 
